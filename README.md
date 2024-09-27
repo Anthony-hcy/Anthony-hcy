@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hello！👻👻👻🎃🎃🎃🐠🐠🐠
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.png)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.png)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.png)">
+</picture>
+
+
 <!--
 **Anthony-hcy/Anthony-hcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
