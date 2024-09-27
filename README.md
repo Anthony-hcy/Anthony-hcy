@@ -25,7 +25,7 @@ Hello！
             margin-right: 20px; /* 文本与图片之间的间距 */
         }
         img {
-            width: 200px; /* 设置图片宽度 */
+            width: 100px; /* 设置图片宽度 */
             height: auto; /* 自适应高度 */
         }
     </style>
