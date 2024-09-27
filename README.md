@@ -13,7 +13,13 @@ Hello！
 
 ## Hi there 👋
 
-Hello！👻👻👻🎃🎃🎃🐠🐠🐠
+Hello！
+
+👻👻👻
+
+🎃🎃🎃
+
+🐠🐠🐠
 
 <div style="display: inline-block; vertical-align: top;">
     <a href="https://tuchuang.voooe.cn/image/zAatE">
