@@ -10,7 +10,6 @@ Hello！
 
 <a href="https://tuchuang.voooe.cn/image/zAatE"><img src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" border="0" /></a>
 
-
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -18,33 +17,32 @@ Hello！
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .container {
-            display: flex; /* 使用 Flexbox 布局 */
-            align-items: center; /* 垂直居中对齐 */
+            position: relative; /* 设定父容器为相对定位 */
+            padding-right: 220px; /* 为防止文本被图片覆盖，留出空间 */
         }
-        .text {
-            margin-right: 20px; /* 文本与图片之间的间距 */
-        }
-        img {
-            width: 100px; /* 设置图片宽度 */
+        .image {
+            position: absolute; /* 绝对定位 */
+            right: 0; /* 图片靠右 */
+            top: 0; /* 在顶部显示 */
+            width: 200px; /* 设置图片宽度 */
             height: auto; /* 自适应高度 */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="text">
-            <h2>Hi there 👋</h2>
-            <p>Hello！</p>
-            <p>👻👻👻</p>
-            <p>🎃🎃🎃</p>
-            <p>🐠🐠🐠</p>
-        </div>
+        <h2>Hi there 👋</h2>
+        <p>Hello！</p>
+        <p>👻👻👻</p>
+        <p>🎃🎃🎃</p>
+        <p>🐠🐠🐠</p>
         <a href="https://tuchuang.voooe.cn/image/zAatE">
-            <img src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" border="0" />
+            <img class="image" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" border="0" />
         </a>
     </div>
 </body>
 </html>
+
 
 
 
