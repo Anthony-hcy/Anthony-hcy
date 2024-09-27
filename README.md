@@ -12,14 +12,20 @@ Hello！
 
 ## Hi there 👋
 
-|             |             |
-|-------------|-------------|
-| Hello！     | ![米子哈~](https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png) |
-| 👻👻👻      |             |
-| 🎃🎃🎃      |             |
-| 🐠🐠🐠      |             |
+Hello！
 
-<a href="https://tuchuang.voooe.cn/image/zAatE">点击这里查看大图</a>
+👻👻👻
+
+🎃🎃🎃
+
+🐠🐠🐠
+
+<div style="text-align: right;">
+    <a href="https://tuchuang.voooe.cn/image/zAatE">
+        <img src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" width="200" />
+    </a>
+</div>
+
 
 
 
