@@ -6,7 +6,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=290&lines=Hello！Привет！;Bonjour！こんにちは！&size=27" />
     </a>
   </div>
-
+<!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Anthony-hcy.Tuchuang&left_color=green&right_color=red)
+-->
 <a align="center"> 
   <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
 </a>
@@ -14,12 +16,10 @@
 🎃🎃🎃
 🐠🐠🐠<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><
-img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anthony-hcy&repo=Anthony-hcy.github.io&theme=buefy" />
@@ -27,7 +27,6 @@ img align="center" src="https://github-readme-stats.vercel.app/api?username=Anth
 <a href="https://tuchuang.voooe.cn/image/zAatE">
   <img align="center" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" width="200"/>
 </a>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake-dark.svg">
