@@ -45,7 +45,7 @@
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://now-playing-joshlmao.vercel.app/now-playing?open"><img src="https://now-playing-joshlmao.vercel.app/now-playing" width="540" height="64"></a> |
 
 
 <table>
