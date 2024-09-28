@@ -27,8 +27,9 @@
 <a href="https://tuchuang.voooe.cn/image/zAatE">
   <img align="center" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" width="200"/>
 </a>
-<a href="https://Anthony-hcy.github.io">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Anthony-hcy" width="310"/>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Anthony-hcy" />
 </a>
 
 <picture>
