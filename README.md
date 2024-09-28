@@ -7,7 +7,7 @@
     </a>
   </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Anthony-hcy&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Anthony-hcy.Tuchuang&left_color=green&right_color=red)
 
 
 <a align="center"> 
@@ -17,7 +17,8 @@
 🎃🎃🎃
 🐠🐠🐠<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><
+img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
