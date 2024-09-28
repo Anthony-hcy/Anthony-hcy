@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-你好！Hello！Привет！Bonjour！こんにちは！
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://Anthony-hcy.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=290&lines=Hello！Привет！;Bonjour！こんにちは！&size=27" />
+    </a>
+  </div>
+
 
 <a align="center"> 
   <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
@@ -22,6 +28,34 @@
   <img align="center" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" width="200"/>
 </a>
 
+
+---
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
