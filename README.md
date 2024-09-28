@@ -2,12 +2,11 @@
 
 你好！Hello！Привет！Bonjour！こんにちは！
 
-
 👻👻👻
 
 🎃🎃🎃
 
-🐠🐠🐠
+🐠🐠🐠<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>  
 
 <div style="display: inline-block; vertical-align: top;">
     <a href="https://tuchuang.voooe.cn/image/zAatE">
@@ -15,10 +14,21 @@
     </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-hcy&repo=Anthony-hcy.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" />
+</a>
 
 
 
