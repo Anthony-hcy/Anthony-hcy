@@ -2,12 +2,14 @@
 
 你好！Hello！Привет！Bonjour！こんにちは！
 
+<a align="center"> 
+  <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
+</a>
 👻👻👻
 
 🎃🎃🎃
 
 🐠🐠🐠<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>  
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
