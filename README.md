@@ -7,9 +7,6 @@
     </a>
   </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Anthony-hcy.Tuchuang&left_color=green&right_color=red)
-
-
 <a align="center"> 
   <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
 </a>
