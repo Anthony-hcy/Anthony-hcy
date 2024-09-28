@@ -31,6 +31,9 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=Anthony-hcy" />
 </a>
+<a href="https://tuchuang.voooe.cn/image/Cx8Zy">
+  <img align="center" src="https://tuchuang.voooe.cn/images/2024/09/28/1000014658.md.jpg" alt="米子哈~" width="340"/>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake-dark.svg">
