@@ -1,21 +1,25 @@
 ## Hi there 👋
 
-  <!-- dynamic typing effect 动态打字效果 -->
+<!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://Anthony-hcy.github.io">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=290&lines=Hello！Привет！;Bonjour！こんにちは！&size=27" />
     </a>
   </div>
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Anthony-hcy.Tuchuang&left_color=green&right_color=red)
--->
+<!--  计数  -->
 <a align="center"> 
   <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
 </a>
+<!--  表情  -->
 👻👻👻
 🎃🎃🎃
 🐠🐠🐠<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>  
 
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&redirect=true) |
+
+<!--  卡片  -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -35,51 +39,55 @@
   <img align="center" src="https://tuchuang.voooe.cn/images/2024/09/28/1000014658.md.jpg" alt="米子哈~" width="340"/>
 </a>
 
+<!--  贪吃蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://now-playing-joshlmao.vercel.app/now-playing?open"><img src="https://now-playing-joshlmao.vercel.app/now-playing" width="540" height="64"></a> |
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&redirect=true) |
 
 
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- 左侧内容 -->
+  <div style="flex: 1; text-align: left;">
+    <!-- 动态打字效果 -->
+    <a href="https://Anthony-hcy.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=290&lines=Hello！Привет！;Bonjour！こんにちは！&size=27" />
+    </a>
+    <!-- 计数 -->
+    <a align="center"> 
+      <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
+    </a>
+    <!-- 表情 -->
+    <div>
+      👻👻👻
+      🎃🎃🎃
+      🐠🐠🐠
+    </div>
+  </div>
 
-
-
-
-
-
-
-
-
-
-
-
+  <!-- 右侧内容 -->
+  <div style="flex: 1; text-align: right;">
+    <table>
+      <tr>
+        <td>
+          🎵 Now Playing
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&redirect=true">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 <!--
 **Anthony-hcy/Anthony-hcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
