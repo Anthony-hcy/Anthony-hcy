@@ -12,7 +12,7 @@
 </a>
 
 <!--  播放器  -->
-| 🎵 Now Playing👻👻👻🎃🎃🎃<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code> | ☃️|
+| 🎵 Now Playing👻👻👻🎃🎃🎃<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code> | Ciallo～(∠・ω< )⌒★|
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&redirect=true) | <img align="center" src="https://tuchuang.voooe.cn/images/2024/09/29/-3.md.jpg"  width="200"/> |
 <!--  卡片  -->
