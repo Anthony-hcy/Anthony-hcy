@@ -18,7 +18,12 @@
 <!--  卡片  -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<!--
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" alt="JustSong's Top Langs" width="37%" /> 
+</p>
+-->
 ### Top Repositories
 <a href="https://github.com/Anthony-hcy/Anthony-hcy.github.io">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Anthony-hcy&repo=Anthony-hcy.github.io&theme=buefy&show_owner=false" width="400"/>
@@ -41,6 +46,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anthony-hcy/Anthony-hcy/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<a href="https://github.com/songquanpeng/stats-cards">
+<p>
+  <img src="https://stats.justsong.cn/api/bilibili/?id=694124468" alt="Anthony's Bilibili Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/csdn?id=2301_76911910" alt="Anthony's CSDN Stats" width="49%" /> 
+</p>
+</a>
 
 
 <!--
