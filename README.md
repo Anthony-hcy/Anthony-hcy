@@ -1,15 +1,11 @@
 ## Hi there 🍭🍭🍭
 
-<!--  动态打字效果 -->
-  <div>
-    <a href="https://Anthony-hcy.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=290&lines=Hello！Привет！;Bonjour！こんにちは！&size=27" />
-    </a>
-  </div>
-<!--  计数  -->
-<a align="center"> 
-  <img src="https://profile-counter.glitch.me/Anthony-hcy/count.svg" />
-</a>
+<!-- 动态打字效果 -->
+<div>
+  <a href="https://Anthony-hcy.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=420&lines=Hello!+Privet!;Bonjour!+Konnichiwa!&size=27" />
+  </a>
+</div>
 
 <!--  播放器  -->
 | 🎵 Now Playing👻👻👻🎃🎃🎃<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code> | Ciallo～(∠・ω< )⌒★|
