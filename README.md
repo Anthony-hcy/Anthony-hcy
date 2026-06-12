@@ -10,7 +10,7 @@
 <!--  播放器  -->
 | 🎵 Now Playing👻👻👻🎃🎃🎃<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code> | Ciallo～(∠・ω< )⌒★|
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://open.spotify.com/) | <img align="center" src="https://tuchuang.voooe.cn/images/2024/09/29/-3.md.jpg"  width="200"/> |
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a7wf7xajnxwfa2bpuszwzgovuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://open.spotify.com/) | <img align="center" src="./images/image-2.jpg" width="200"/> |
 <!--  卡片  -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-hcy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anthony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-hcy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -24,15 +24,15 @@
 <a href="https://github.com/Anthony-hcy/Anthony-hcy.github.io">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Anthony-hcy&repo=Anthony-hcy.github.io&theme=buefy&show_owner=false" width="400"/>
 </a>
-<a href="https://tuchuang.voooe.cn/image/zAatE">
-  <img align="center" src="https://tuchuang.voooe.cn/images/2024/07/20/-2024-07-20-1157467b035667f95cc06c.md.png" alt="米子哈~" width="200"/>
+<a href="./images/image-1.png">
+  <img align="center" src="./images/image-1.png" alt="米子哈~" width="200"/>
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=Anthony-hcy" />
 </a>
-<a href="https://tuchuang.voooe.cn/image/Cx8Zy">
-  <img align="center" src="https://tuchuang.voooe.cn/images/2024/09/28/1000014658.md.jpg"  width="340"/>
+<a href="./images/image-3.jpg">
+  <img align="center" src="./images/image-3.jpg" width="340"/>
 </a>
 
 <!--  贪吃蛇 -->
