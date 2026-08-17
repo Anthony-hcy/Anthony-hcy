@@ -1,1 +1,3 @@
-[![网易云歌单](https://music.163.com/outchain/player?type=2&id=2348674204&auto=0&height=66)](https://music.163.com/#/playlist?id=2348674204)
+| 🎵 Now Playing👻👻👻🎃🎃🎃<code><img height="20" alt="github" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code> | Ciallo～(∠・ω< )⌒★|
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| <a href="https://music.163.com/#/playlist?id=2348674204"><img src="https://music.163.com/outchain/player?type=2&id=2348674204&auto=0&height=66" referrerpolicy="no-referrer" alt="网易云歌单" /></a> | <img align="center" src="./images/image-2.jpg" width="200"/> |
